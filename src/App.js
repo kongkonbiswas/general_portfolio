@@ -22,9 +22,10 @@ const Body = styled.div`
 `
 
 const Wrapper = styled.div`
-  background: linear-gradient(38.73deg, rgba(204, 0, 187, 0.15) 0%, rgba(201, 32, 184, 0) 50%), linear-gradient(141.27deg, rgba(0, 70, 209, 0) 50%, rgba(0, 70, 209, 0.15) 100%);
+  background: linear-gradient(38.73deg, rgba(204, 0, 187, 0.15) 0%, rgba(201, 32, 184, 0) 50%), linear-gradient(141.27deg, rgba(0, 70, 209, 0) 50%, rgba(0, 70, 209, 0.15) 100%), linear-gradient(to right, #00093c, #2d0b00);
   width: 100%;
   clip-path: polygon(0 0, 100% 0, 100% 100%,30% 98%, 0 100%);
+  padding-bottom: 200px;
 `
 function App() {
   const [darkMode, setDarkMode] = useState(true);
@@ -37,14 +38,13 @@ function App() {
         <Body>
           <HeroSection />
           <Wrapper>
-            <Skills />
-            <Experience />
-          </Wrapper>
           <Projects openModal={openModal} setOpenModal={setOpenModal} />
-          <Wrapper>
             <Education />
-            <Contact />
+            <Experience />
+            <Skills />
           </Wrapper>
+          
+          <Contact />
           <Footer />
           {openModal.state &&
             <ProjectDetails openModal={openModal} setOpenModal={setOpenModal} />
