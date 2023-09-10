@@ -10,7 +10,7 @@ const FooterContainer = styled.div`
   padding: 2rem 0;
   display: flex;
   justify-content: center;
- background: linear-gradient(to right, #00093c, #a44d00 ) ;
+  background: linear-gradient(to right, #00093c, #411d00);
 `;
 
 
@@ -88,7 +88,7 @@ function Footer() {
   return (
     <FooterContainer>
       <FooterWrapper>
-        <Logo>Span Kongkon Biswas</Logo>
+        <Logo>Kongkon Biswas</Logo>
         <Nav>
           <NavLink href="#about">About</NavLink>
           <NavLink href="#skills">Skills</NavLink>

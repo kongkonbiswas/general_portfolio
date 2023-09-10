@@ -5,6 +5,7 @@ import emailjs from '@emailjs/browser';
 import { Snackbar } from '@mui/material';
 
 const Container = styled.div`
+background-color: #a44d00;
 display: flex;
 flex-direction: column;
 justify-content: center;
@@ -17,6 +18,8 @@ align-items: center;
 `
 
 const Wrapper = styled.div`
+
+background: linear-gradient(to right, #548c40, #5a0000);
 position: relative;
 display: flex;
 justify-content: space-between;

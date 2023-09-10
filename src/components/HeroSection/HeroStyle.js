@@ -16,9 +16,11 @@ export const HeroContainer = styled.div`
   z-index: 1;
 
   clip-path: polygon(0 0, 100% 0, 100% 100%, 70% 95%, 0 100%);
+  fill: red;
 `;
 
 export const HeroBg = styled.div`
+  background: linear-gradient(to right, #622900, #00093c);
   position: absolute;
   display: flex;
   justify-content: end;
