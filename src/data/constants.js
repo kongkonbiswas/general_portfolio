@@ -297,7 +297,7 @@ export const education = [
     school: "Southeast University, Dhaka",
     date: "Jun 2023 - Preasent",
     grade: "Upcomming CGPA",
-    desc: "I am currently pursuing a Bachelor's degree in Electrial and Electronics Engineering at Southeast University, Dhaka. I have completed 4 semesters and have a CGPA upcomming. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others. I am also a member of the Google Developers Student Club (GDSC) at KIIT, where I am learning and working on exciting projects with a team of talented developers.",
+    desc: "I am currently studying a Bachelor's degree in Electrial and Electronics Engineering at Southeast University, Dhaka. I have completed first semester. I have taken courses in EEE,  Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others. I am also a member of the Google Developers Student Club (GDSC) at KIIT, where I am learning and working on exciting projects with a team of talented developers.",
     degree: "Bachelor of Science - BSc, Electrial and Electronics Engineering",
   },
   {

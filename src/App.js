@@ -19,6 +19,7 @@ const Body = styled.div`
   background-color: ${({ theme }) => theme.bg};
   width: 100%;
   overflow-x: hidden;
+  background: #a44d00;
 `
 
 const Wrapper = styled.div`

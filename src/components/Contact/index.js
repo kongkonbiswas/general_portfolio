@@ -19,7 +19,7 @@ align-items: center;
 
 const Wrapper = styled.div`
 
-background: linear-gradient(to right, #548c40, #5a0000);
+background: linear-gradient(to right, #5A7933, #5a0000);
 position: relative;
 display: flex;
 justify-content: space-between;
