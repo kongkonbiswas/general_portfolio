@@ -297,7 +297,7 @@ export const education = [
     school: "Southeast University, Dhaka",
     date: "Jun 2023 - Preasent",
     grade: "Upcomming CGPA",
-    desc: "I am currently studying a Bachelor's degree in Electrial and Electronics Engineering at Southeast University, Dhaka. I have completed first semester. I have taken courses in EEE,  Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others. I am also a member of the Google Developers Student Club (GDSC) at KIIT, where I am learning and working on exciting projects with a team of talented developers.",
+    desc: "I am currently studying for a Bachelor's degree in Electrical and Electronics Engineering at Southeast University, Dhaka. I have completed the first semester. I have taken courses in Electrical Circuit I, Basic English Skills, Mathematics II (Ordinary and Partial Differential Equations), and Physics I (Electricity and Magnetism, Modern Physics and Mechanics), among others. I am also a student of the Khan Academy and Coursera, where I am learning and improving my capability with a team of talented teachers.",
     degree: "Bachelor of Science - BSc, Electrial and Electronics Engineering",
   },
   {
@@ -306,7 +306,7 @@ export const education = [
     school: "Dhaka Polytechnic Institute, Dhaka",
     date: "Aug 2018 - March 2023",
     grade: "3.60/4.00 CGPA",
-    desc: "I completed my class 12 high school education at Methodist School, Dankuni, where I studied Science with Computer Science.",
+    desc: "I completed my diploma engineering in at Dhaka Polytechnic Institute in the Department of Electrical Engineering with a CGPA of 3.60 out of 4.00. ",
     degree: "Diploma In Engineering, Electrial Engineering Technology",
   },
   {
@@ -315,7 +315,7 @@ export const education = [
     school: "Monoharpur Technical And Science College, Jashore",
     date: "Jan 2016 - Feb 2018",
     grade: "4.89/5.00 GPA",
-    desc: "I completed my class 10 education at Methodist School, Dankuni, where I studied Science with Computer Application.",
+    desc: "I completed my class 10 education at Monoharpur Technical And Science College, Jashore where I studied Science with Computer Science And Information Technology. I scored a GPA of 4.89 out of 5.00.",
     degree: "SSC(X), Computer Science And Information Technology",
   },
 ];
