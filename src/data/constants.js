@@ -306,7 +306,7 @@ export const education = [
     school: "Dhaka Polytechnic Institute, Dhaka",
     date: "Aug 2018 - March 2023",
     grade: "3.60/4.00 CGPA",
-    desc: "I completed my diploma engineering in at Dhaka Polytechnic Institute in the Department of Electrical Engineering with a CGPA of 3.60 out of 4.00. ",
+    desc: "I completed my diploma in engineering at Dhaka Polytechnic Institute in the Department of Electrical Engineering with the CGPA of 3.60 out of 4.00.",
     degree: "Diploma In Engineering, Electrial Engineering Technology",
   },
   {
