@@ -1,5 +1,5 @@
-//npm i emailjs react-router-dom react-icons react-scroll styled-components typewriter-effect
-# grneral-por
+<!-- npm i emailjs react-router-dom react-icons react-scroll styled-components typewriter-effect -->
+# grneral-portfolio
 
 //Have a look the live preview [Click here to Check Live App](https://expo.dev/@kongkonbiswas/planet-app).
 
