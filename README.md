@@ -1,4 +1,3 @@
-<!-- npm i emailjs react-router-dom react-icons react-scroll styled-components typewriter-effect -->
 # grneral-portfolio
 
 //Have a look the live preview [Click here to Check Live App](https://expo.dev/@kongkonbiswas/planet-app).
@@ -38,7 +37,6 @@ If you have any feedback, please reach out to me at kongkonbiswas3241@gmail.com
  
 
  <!-- ## Important command
-# npm i --save react-native-svg
-# npm i --save --dev react-native-svg-transformer -->
+# npm i emailjs react-router-dom react-icons react-scroll styled-components typewriter-effect  -->
 
  ---Thank You---
