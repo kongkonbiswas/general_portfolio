@@ -19,7 +19,7 @@ This is React native app. Here I am using Expo CLI to complete this project. Her
 
 ## Demo
 
-Upcoming versions
+I am working on it.
 
 
 ## Feedback
