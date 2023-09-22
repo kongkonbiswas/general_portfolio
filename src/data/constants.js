@@ -362,16 +362,13 @@ export const projects = [
     image:
       "https://user-images.githubusercontent.com/64485885/234916413-96296f13-fe4b-4cc4-b215-e72bd7c27928.png",
     tags: [
-      "React Js",
-      "MongoDb",
-      "Node Js",
-      "Express Js",
-      "Redux",
-      "NodeMailer",
+      "Python",
+      "CV2",
+      "Mediapipe",
     ],
-    category: "web app",
-    github: "https://github.com/rishavchanda/Project-Management-App",
-    webapp: "https://vexa-app.netlify.app/",
+    category: "machine learning",
+    github: "https://github.com/kongkonbiswas/Dr.StrangeShild",
+    // webapp: "https://vexa-app.netlify.app/",
   },
   {
     id: 2,
@@ -384,7 +381,7 @@ export const projects = [
     tags: ["Python", "Keras", "TensorFlow", "VGG16", "Pickle", "React"],
     category: "machine learning",
     github: "https://github.com/rishavchanda/Brain-Tumor-Detection",
-    webapp: "https://brain-tumor.netlify.app/",
+    // webapp: "https://brain-tumor.netlify.app/",
     member: [
       {
         name: "Rishav Chanda",
