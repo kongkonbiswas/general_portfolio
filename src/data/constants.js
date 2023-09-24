@@ -304,7 +304,7 @@ export const education = [
     id: 1,
     img: "https://upload.wikimedia.org/wikipedia/commons/9/95/Dhaka_Polytechnic_Institute_-_DPI_Logo.jpg",
     school: "Dhaka Polytechnic Institute, Dhaka",
-    date: "Aug 2018 - March 2023",
+    date: "Aug 2018 - May 2023",
     grade: "3.60/4.00 CGPA",
     desc: "I completed my diploma in engineering at Dhaka Polytechnic Institute in the Department of Electrical Engineering with the CGPA of 3.60 out of 4.00.",
     degree: "Diploma In Engineering, Electrial Engineering Technology",
@@ -323,7 +323,7 @@ export const education = [
 export const projects = [
   {
     id: 9,
-    title: "Panda",
+    title: "Panda Mart",
     date: "Jun 2023 - Jul 2023",
     description:
       "Panda is a web application designed to streamline task management and enhance productivity in the marketplace. Here you can buy products. There are also category-wise products. There are three sections banner products and footer. ",
